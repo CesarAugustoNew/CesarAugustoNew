@@ -59,27 +59,12 @@ Meu nome é César Augusto da Silva, tenho 21 anos e sou natural de Santo André
 
 
   <img align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-
-   
-  <img align="left" 
     alt="Git"
     title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-
-  <img align="left" 
-    alt="Mysql"
-    title="Mysql" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <br/>
   <br/>
   
