@@ -35,6 +35,14 @@ Meu nome é César Augusto da Silva, tenho 21 anos e sou natural de Santo André
 
 
 <img align="left" 
+    alt="Typescript" 
+    title="Typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+
+<img align="left" 
     alt="Angular"
     title="Angular" 
     width="30px" 
@@ -50,13 +58,30 @@ Meu nome é César Augusto da Silva, tenho 21 anos e sou natural de Santo André
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
   
+   
+<img align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+          
+
+  
 <img align="left" 
     alt="Python"
     title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  
 
+<img align="left" 
+    alt="Postgres"
+    title="Postgres" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
   <img align="left" 
     alt="Git"
@@ -80,7 +105,12 @@ Meu nome é César Augusto da Silva, tenho 21 anos e sou natural de Santo André
     all="GitHub Stats"
     heigth="200px" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAugustoNew&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /> 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAugustoNew&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+
+
+    
+            
+          
     
 
 
