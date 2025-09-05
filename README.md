@@ -1,4 +1,4 @@
-#👨🏽‍💻 Olá! Eu sou César augusto
+  👨🏽‍💻 Olá! Eu sou César augusto
 
 - 🔭 Procurando estagio TI
 - 📚 Estudando Front-end
