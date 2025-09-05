@@ -1,4 +1,4 @@
-  👨🏽‍💻 Olá! Eu sou César augusto
+  *👨🏽‍💻 Olá! Eu sou César augusto*
 
 - 🔭 Procurando estagio TI
 - 📚 Estudando Front-end
@@ -6,7 +6,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é César Augusto da Silva, tenho 21 anos e sou natural de Santo André. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP e realizo cursos extracurriculares no SENAI, com foco em desenvolvimento Full Stack.
+Meu nome é César Augusto da Silva, tenho 21 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP e realizo cursos extracurriculares no SENAI, com foco em desenvolvimento Full Stack.
 
 ### 🤖 Linguagens e Tecnologias
 
