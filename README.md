@@ -44,8 +44,8 @@ Meu nome é César Augusto da Silva, tenho 21 anos. Atualmente, curso Análise e
 
 
   <img align="left" 
-    alt="Typescript" 
-    title="Typescript"
+    alt="Angularjs" 
+    title="Angularjs"
     width="30px" 
     style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
