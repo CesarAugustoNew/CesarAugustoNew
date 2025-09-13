@@ -1,7 +1,7 @@
-  *👨🏽‍💻 Olá! Eu sou César augusto*
+  *👨🏽‍💻 César augusto*
 
 - 🔭 Procurando estagio TI
-- 📚 Estudando Front-end
+- 📚 Estudando Fill stack
 - 📩 Contate-me email: cesarprofissional22@gmail.com
 
 **`Desenvolvedor FullStack`**
