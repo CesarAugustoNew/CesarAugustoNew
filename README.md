@@ -79,11 +79,12 @@ Meu nome é César Augusto da Silva, tenho 21 anos. Atualmente, curso Análise e
 
  
   <img align="left" 
-    alt="Mysql"
-    title="Mysql" 
+    alt="Postgresql"
+    title="Postgresql" 
     width="30px" 
     style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+           
 
   <img align="left" 
     alt="Git"
