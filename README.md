@@ -8,7 +8,7 @@
 
 Meu nome é César Augusto da Silva, tenho 21 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP e realizo cursos extracurriculares no SENAI, com foco em desenvolvimento Full Stack.
 
-### 🤖 Linguagens e Tecnologias
+### ⚜  My Skills ⚜ 
 
 <img align="left" 
     alt="HTML"
@@ -77,26 +77,11 @@ Meu nome é César Augusto da Silva, tenho 21 anos. Atualmente, curso Análise e
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
- 
-  <img align="left" 
-    alt="Postgresql"
-    title="Postgresql" 
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-           
-
-  <img align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
   <br/>
   <br/>
   
-  ### 📊 Estatísticas
+  ### 📈 Estatística 📉
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CesarAugustoNew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
