@@ -1,81 +1,55 @@
-  *👨🏽‍💻 César augusto*
+*👨🏽‍💻 César Augusto*
 
-- 🔭 Procurando estagio TI
-- 📚 Estudando Full stack
-- 📩 Contate-me email: cesarprofissional22@gmail.com
+- 🔭 Procurando estágio TI  
+- 📚 Estudando Full Stack  
+- 📩 Contate-me: **cesarprofissional22@gmail.com**
+
+---
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é César Augusto da Silva, tenho 21 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP e realizo cursos extracurriculares no SENAI, com foco em desenvolvimento Full Stack.
+Meu nome é César Augusto da Silva, tenho 21 anos. Atualmente, curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extracurriculares no **SENAI**, com foco em desenvolvimento **Full Stack**.
 
-### ⚜  My Skills ⚜ 
-
-<img align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-  
-  <img align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-    
-<img align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-
-<img align="left" 
-    alt="Typescript" 
-    title="Typescript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+---
 
 
 
-  
-  <img align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-          
- <img align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<div align="center">
+ 
+### ⚜ Ferramentas e Tecnologias ⚜
 
-  <img align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    
- <img align="left" 
-    alt="Mysql"
-    title="Mysql" 
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-  <br/>
-  <br/>
-  
-  ### 📈 Estatística 📉
+<br>
+
+### 🖥️ Front-end  
+
+<img alt="HTML" title="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img alt="CSS" title="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img alt="TypeScript" title="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img alt="Angular" title="Angular" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+
+
+
+### ⚙️ Back-end  
+
+<img alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img alt="Java" title="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+
+
+### 🗄️ Banco de Dados  
+
+<img alt="MySQL" title="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+</div>
+
+---
+
+<div align="center">  
+
+### 📈 Estatísticas 📉
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CesarAugustoNew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
@@ -84,15 +58,6 @@ Meu nome é César Augusto da Silva, tenho 21 anos. Atualmente, curso Análise e
 </div>
 
 
+</div> 
 
 
-    
-            
-          
-    
-
-
-
-
-
-    
