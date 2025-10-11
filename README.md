@@ -2,13 +2,15 @@
 
 - 🔭 Procurando estágio TI  
 - 📚 Estudando Full Stack  
-- 📩 Contate-me: **cesarprofissional22@gmail.com**
+- 📩 Contate-me: www.linkedin.com/in/césar-augusto-633376301
+
+**
 
 ---
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é César Augusto da Silva, tenho 21 anos. Atualmente, curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extracurriculares no **SENAI**, com foco em desenvolvimento **Full Stack**.
+Meu nome é César Augusto da Silva, tenho 21 anos. Atualmente, curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extracurriculares com foco em desenvolvimento **Full Stack**.
 
 ---
 
