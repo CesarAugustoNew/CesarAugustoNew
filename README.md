@@ -10,7 +10,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é César Augusto da Silva, tenho 21 anos. Atualmente, curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extracurriculares com foco em desenvolvimento **Full Stack**.
+Curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extracurriculares com foco em desenvolvimento **Full Stack**.
 
 ---
 
