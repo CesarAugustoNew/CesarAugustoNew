@@ -57,10 +57,10 @@ Curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extrac
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CesarAugustoNew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-       
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CesarAugustoNew&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=CesarAugustoNew&show_icons=true&count_private=true&hide_border=true&title_color=white&icon_color=&text_color=ffffff&bg_color=0d1117" alt="CesarAugustoNew github stats"/> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAugustoNew&layout=compact&hide_border=true&title_color=white&text_color=ffffff&bg_color=0d1117" />
 </div>
+
 
 
 </div> 
