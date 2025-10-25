@@ -28,6 +28,7 @@ Curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extrac
 <img alt="git" title="git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img alt="vscode" title="vscode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img alt="vs" title="vs" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img alt="vs" title="vs" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 
 <br>
 
@@ -44,6 +45,8 @@ Curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extrac
 
 
 <img alt="C#" title="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 
 
 </div>
