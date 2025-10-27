@@ -1,8 +1,7 @@
-*👨🏽‍💻 César Augusto*
 
 - 🔭 Procurando estágio TI  
-- 📚 Estudando C# e Angular
-- 📩 Contate-me: www.linkedin.com/in/césar-augusto-633376301
+- 📚 Estudando C#, .NET, Angular e Python
+- 📩 Linkedin: www.linkedin.com/in/césar-augusto-633376301
 
 
 
