@@ -59,9 +59,6 @@ Curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extrac
 <br>
 
 
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAugustoNew&layout=compact&hide_border=true&title_color=white&text_color=ffffff&bg_color=0d1117" />
-</div>
-
 
 
 </div> 
