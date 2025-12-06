@@ -51,13 +51,9 @@ Curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extrac
 
 </div>
 
----
 
 <div align="center">  
 
-### 📈 Estatísticas 📉
-
-<br>
 
 
 
