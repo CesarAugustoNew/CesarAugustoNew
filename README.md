@@ -1,7 +1,6 @@
 
 - 🔭 Procurando estágio TI  
-- 📚 Estudando C#, .NET, Angular e Python
-- 🤖 Estudando para Certificação AI 900
+- 📚 Estudando C# e C++
 - 📩 Linkedin: www.linkedin.com/in/césar-augusto-633376301
 
 
