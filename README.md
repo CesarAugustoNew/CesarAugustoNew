@@ -10,7 +10,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extracurriculares com foco em desenvolvimento **Full Stack**.
+Curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extracurriculares no Senai
 
 ---
 
