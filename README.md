@@ -9,8 +9,6 @@
 
 **`Desenvolvedor `**
 
-Curso **Análise e Desenvolvimento de Sistemas na UNIP** e realizo cursos extracurriculares no Senai
-
 ---
 
 
