@@ -1,6 +1,6 @@
 
 - 🔭 Procurando estágio TI  
-- 📚 Estudando C# e C++
+- 📚 Estudando Back-End e Banco de Dados
 - 📩 Linkedin: www.linkedin.com/in/césar-augusto-633376301
 
 
