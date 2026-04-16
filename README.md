@@ -3,7 +3,6 @@
 - 📩 Linkedin: www.linkedin.com/in/césar-augusto-633376301
 - Projetos 💡
 
-
 ---
 
 **`Desenvolvedor Front-End (SENAI) ✔ `** <br> 
@@ -11,8 +10,6 @@
 **`Programação em Banco de Dados (SENAI) ⌛ `**
 
 ---
-
-
 
 <div align="center">
  
@@ -45,6 +42,14 @@
 <img alt="Spring" title="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
 <div align="center">
+
+<div align="center">
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAugustoNew&layout=compact&langs_count=6&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=00000000" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CesarAugustoNew&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00ff99&text_color=ffffff&bg_color=00000000" />
+
+</div>
  
 <br>
 
