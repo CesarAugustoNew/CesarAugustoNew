@@ -19,7 +19,7 @@
 <img alt="vs" title="vs" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img alt="intellij" title="intellij" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 
-<br><br>
+<br>
 
 ### 🖥️ Linguagens e Frameworks Front-end
 
@@ -29,7 +29,7 @@
 <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img alt="Angular" title="Angular" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
-<br><br>
+<br>
 
 ### ⚙️ Linguagens e Frameworks Back-end
 
