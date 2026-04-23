@@ -1,6 +1,5 @@
 * 📚 Estudando Back-End e Banco de Dados
 * 📩 Linkedin: [www.linkedin.com/in/césar-augusto-633376301](http://www.linkedin.com/in/césar-augusto-633376301)
-* Projetos 💡
 
 ---
 
