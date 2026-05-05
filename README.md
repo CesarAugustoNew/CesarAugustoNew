@@ -47,12 +47,5 @@
           
 </div>
 
----
 
-<div align="center">
 
-### 📊 Estatísticas
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAugustoNew&layout=compact&langs_count=6&hide_border=true&title_color=ffffff&text_color=3178C6&bg_color=0d1117" />
-
-</div>
