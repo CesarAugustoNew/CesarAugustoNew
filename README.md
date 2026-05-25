@@ -1,12 +1,9 @@
 * 📚 Ciência da Computação
-* 📚 Estudando Back-End e Banco de Dados
 * 📩 Linkedin: [www.linkedin.com/in/césar-augusto-633376301](http://www.linkedin.com/in/césar-augusto-633376301)
 
 ---
 
-**`Desenvolvedor Front-End (SENAI) ✔ `** <br>
-**`Desenvolvedor Back-End (SENAI) ⌛ `** <br>
-**`Programação em Banco de Dados (SENAI) ⌛ `**
+<img width="1693" height="929" alt="image" src="https://github.com/user-attachments/assets/dc4bff02-1138-4018-9b73-dd6af02d1de6" />
 
 ---
 
