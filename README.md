@@ -1,10 +1,3 @@
-* 📩 Linkedin: [www.linkedin.com/in/césar-augusto-633376301](http://www.linkedin.com/in/césar-augusto-633376301)
-
----
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9bf4628c-0468-41f7-9b02-2b9506c267c1" />
-
----
 
 <div align="center">
 
