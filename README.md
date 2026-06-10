@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ### 🛠️ Ferramentas Diversas
@@ -34,9 +33,22 @@
 
 <img alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img alt="SQLServe" title="SQLServe" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-          
-          
+
+<br>
+
 </div>
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CesarAugustoNew&show_icons=true&theme=dark"
+    height="166"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAugustoNew&layout=compact&theme=dark"
+    height="180"
+  />
+</p>
 
 
 
