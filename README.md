@@ -41,15 +41,6 @@
 </div>
 <br>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=CesarAugustoNew&show_icons=true&theme=dark"
-    height="166"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAugustoNew&layout=compact&theme=dark"
-    height="180"
-  />
 </p>
 
 
