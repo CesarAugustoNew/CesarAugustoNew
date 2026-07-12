@@ -12,6 +12,8 @@
 - ☁️ Microsoft AI-900
 - ☁️ Microsoft AI-102
 - 🅰️ Trainee AWS Architect
+<img width="100" height="100" alt="aws-academy-graduate-cloud-architecting-training-ba" src="https://github.com/user-attachments/assets/cdebdd4e-fdbd-4dfc-be6a-b5edbc3fffc3" />
+
 
 <div align="center">
 
