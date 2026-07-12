@@ -1,3 +1,18 @@
+
+## 🎓 Formação Acadêmica 🎓
+
+- 📖 Cursando 1º semestre de Análise e Desenvolvimento de Sistemas - UNIP
+<br>
+
+## 📜 Cursos e Certificações 📜
+
+- 🖥️ Desenvolvedor Front-end
+- ⚙️ Desenvolvedor Back-end
+- 🔤 Programação em C++
+- ☁️ Microsoft AI-900
+- ☁️ Microsoft AI-102
+- 🅰️ Trainee AWS Architect
+
 <div align="center">
 
 ### 🛠️ Ferramentas Diversas
@@ -36,8 +51,12 @@
 
 <br>
 
-</div>
-</p>
+<div align="center">
+<br> <br>
+
+
+<img height="300" src="https://streak-stats.demolab.com?user=CesarAugustoNew&theme=github-dark&hide_border=true"/>
+
 
 
 
