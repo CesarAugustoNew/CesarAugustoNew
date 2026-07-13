@@ -1,7 +1,7 @@
 
 ## 🎓 Formação Acadêmica 🎓
 
-- 📖 Cursando 1º semestre de Análise e Desenvolvimento de Sistemas - UNIP
+- 📖 Análise e Desenvolvimento de Sistemas - UNIP
 <br>
 
 ## 📜 Cursos e Certificações 📜
