@@ -6,11 +6,11 @@
 
 ## 📜 Cursos e Certificações 📜
 
-- 🖥️ Desenvolvedor Front-end
-- ⚙️ Desenvolvedor Back-end
-- 🔤 Programação em C++
-- ☁️ Microsoft AI-900
-- ☁️ Microsoft AI-102
+- 🖥️ Desenvolvedor Front-end (Senai)
+- ⚙️ Desenvolvedor Back-end (Senai)
+- 🔤 Programação em C++ (Senai)
+- ☁️ Microsoft AI-900 (Senai)
+- ☁️ Microsoft AI-102 (Senai)
 - 🅰️ Trainee AWS Architect
 <img width="100" height="100" alt="aws-academy-graduate-cloud-architecting-training-ba" src="https://github.com/user-attachments/assets/cdebdd4e-fdbd-4dfc-be6a-b5edbc3fffc3" />
 
