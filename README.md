@@ -54,10 +54,6 @@
 <br>
 
 <div align="center">
-<br> <br>
-
-
-<img height="300" src="https://streak-stats.demolab.com?user=CesarAugustoNew&theme=github-dark&hide_border=true"/>
 
 
 
