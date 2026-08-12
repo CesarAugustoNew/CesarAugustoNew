@@ -8,6 +8,7 @@
 
 - 🖥️ Desenvolvedor Front-end (Senai)
 - ⚙️ Desenvolvedor Back-end (Senai)
+- 🎲 Administrador de Banco de Dados (Senai)
 - 🔤 Programação em C++ (Senai)
 - ☁️ Microsoft AI-900 (Senai)
 - ☁️ Microsoft AI-102 (Senai)
