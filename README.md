@@ -1,7 +1,26 @@
 
-## 🎓 Formação Acadêmica 🎓
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f3057,100:1b6ca8&height=200&section=header&text=César%20Augusto%20da%20Silva&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Santo%20André,%20BR&descAlignY=60&descSize=20&descColor=ffffff&animation=fadeIn)
 
-- 📖 Análise e Desenvolvimento de Sistemas - UNIP
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFÓLIO-1b1f27?style=for-the-badge)](https://portifolio-cesar45.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-augusto-new)
+
+
+</div>
+
+---
+
+
+```js
+const cesar = {
+  location: "Santo André, SP, BR",
+  role: "Estudante de Análise e Desenvolvimento de Sistemas — UNIP",
+  stack: ["Java", "Spring Boot", "React", "Angular", "TypeScript"],
+  currently: "Aprofundando estudos em nuvem (AWS, Azure) e Banco de Dados",
+};
+```
+
 <br>
 
 ## 📜 Cursos e Certificações 📜
