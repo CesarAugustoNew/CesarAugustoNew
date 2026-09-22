@@ -16,7 +16,7 @@
 const cesar = {
   location: "Santo André, SP, BR",
   role: "Estudante de Análise e Desenvolvimento de Sistemas — UNIP",
-  stack: ["Java", "Spring Boot", "React", "Angular", "TypeScript"],
+  stack: ["Java", "Spring Boot", "Python", "React", "TypeScript"],
   currently: "Aprofundando estudos em nuvem (AWS, Azure) e Banco de Dados",
 };
 ```
