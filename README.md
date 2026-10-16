@@ -28,7 +28,7 @@ const cesar = {
 - 🖥️ Desenvolvedor Front-end (Senai)
 - ⚙️ Desenvolvedor Back-end (Senai)
 - 🎲 Administrador de Banco de Dados (08/09/2026 a 16/12/2026 Senai)
-- ⚙ Engenharia de Machine Learning e MLOps (17/10/2026 a 19/12/2026 Senai)
+- ⚙ Engenharia de Machine Learning e MLOps (31/10/2026 a 02/01/2027 Senai)
 - 🔤 Programação em C++ (Senai)
 - ☁️ Microsoft AI-900 (Senai)
 - ☁️ Microsoft AI-102 (Senai)
